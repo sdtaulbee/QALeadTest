@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/davelaxman/SDETTestNode.git"
+    "url": "git+https://github.com/sdtaulbee/QALeadTest.git"
   },
   "author": "Dave Laxman",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/davelaxman/SDETTestNode/issues"
+    "url": "https://github.com/sdtaulbee/QALeadTest/issues"
   },
-  "homepage": "https://github.com/davelaxman/SDETTestNode#readme",
+  "homepage": "https://github.com/sdtaulbee/QALeadTest/#readme",
   "dependencies": {
     "app-root-path": "^2.2.1",
     "hapi": "^18.1.0",
